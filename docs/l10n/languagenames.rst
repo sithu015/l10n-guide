@@ -26,6 +26,8 @@ on the English name.
      - Brezhoneg
    * - Bulgarian
      - Български
+   * - Burmese
+     - 
    * - Catalan
      - Català
    * - Chinese (simplified)
